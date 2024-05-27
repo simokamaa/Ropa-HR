@@ -31,27 +31,6 @@
       "slug": "transactions"
     },
     {
-      "menu_header": "Apps & Pages"
-    },
-    {
-      "url": "app-email",
-      "name": "Email",
-      "icon": "menu-icon tf-icons ti ti-mail",
-      "slug": "app-email"
-    },
-    {
-      "url": "app-chat",
-      "name": "Chat",
-      "icon": "menu-icon tf-icons ti ti-messages",
-      "slug": "app-chat"
-    },
-    {
-      "url": "app-calendar",
-      "name": "Calendar",
-      "icon": "menu-icon tf-icons ti ti-calendar",
-      "slug": "app-calendar"
-    },
-    {
       "name": "eCommerce",
       "icon": "menu-icon tf-icons ti ti-shopping-cart",
       "slug": "app-ecommerce",
@@ -135,38 +114,6 @@
             }
           ]
         }        
-      ]
-    },
-    
-    {
-      "name": "Invoice",
-      "icon": "menu-icon tf-icons ti ti-file-dollar",
-      "slug": "app-invoice",
-      "badge": [
-        "danger",
-        "4"
-      ],
-      "submenu": [
-        {
-          "url": "app-invoice-list",
-          "name": "List",
-          "slug": "app-invoice-list"
-        },
-        {
-          "url": "app-invoice-preview",
-          "name": "Preview",
-          "slug": "app-invoice-preview"
-        },
-        {
-          "url": "app-invoice-edit",
-          "name": "Edit",
-          "slug": "app-invoice-edit"
-        },
-        {
-          "url": "app-invoice-add",
-          "name": "Add",
-          "slug": "app-invoice-add"
-        }
       ]
     },
     {
@@ -297,42 +244,6 @@
     },
     {
       "menu_header": "Components"
-    },
-    {
-      "name": "Cards",
-      "icon": "menu-icon tf-icons ti ti-id",
-      "slug": "cards",
-      "badge": [
-        "primary",
-        "5"
-      ],
-      "submenu": [
-        {
-          "url": "cards-basic",
-          "name": "Basic",
-          "slug": "cards-basic"
-        },
-        {
-          "url": "cards-advance",
-          "name": "Advance",
-          "slug": "cards-advance"
-        },
-        {
-          "url": "cards-statistics",
-          "name": "Statistics",
-          "slug": "cards-statistics"
-        },
-        {
-          "url": "cards-analytics",
-          "name": "Analytics",
-          "slug": "cards-analytics"
-        },
-        {
-          "url": "cards-actions",
-          "name": "Actions",
-          "slug": "cards-actions"
-        }
-      ]
     },
     {
       "name": "User interface",
@@ -557,84 +468,8 @@
           "url": "form-layouts-horizontal",
           "name": "Horizontal Form",
           "slug": "form-layouts-horizontal"
-        },
-        {
-          "url": "form-layouts-sticky",
-          "name": "Sticky Actions",
-          "slug": "form-layouts-sticky"
         }
       ]
-    },
-    {
-      "name": "Form Wizard",
-      "icon": "menu-icon tf-icons ti ti-text-wrap-disabled",
-      "slug": "form-wizard",
-      "submenu": [
-        {
-          "url": "form-wizard-numbered",
-          "name": "Numbered",
-          "slug": "form-wizard-numbered"
-        },
-        {
-          "url": "form-wizard-icons",
-          "name": "Icons",
-          "slug": "form-wizard-icons"
-        }
-      ]
-    },
-    {
-      "url": "form-validation",
-      "icon": "menu-icon tf-icons ti ti-checkbox",
-      "name": "Form Validation",
-      "slug": "form-validation"
-    },
-    {
-      "url": "tables-basic",
-      "icon": "menu-icon tf-icons ti ti-table",
-      "name": "Tables",
-      "slug": "tables-basic"
-    },
-    {
-      "name": "Datatables",
-      "icon": "menu-icon tf-icons ti ti-layout-grid",
-      "slug": "tables-datatables",
-      "submenu": [
-        {
-          "url": "tables-datatables-basic",
-          "name": "Basic",
-          "slug": "tables-datatables-basic"
-        },
-        {
-          "url": "tables-datatables-advanced",
-          "name": "Advanced",
-          "slug": "tables-datatables-advanced"
-        },
-        {
-          "url": "tables-datatables-extensions",
-          "name": "Extensions",
-          "slug": "tables-datatables-extensions"
-        }
-      ]
-    },
-    {
-      "menu_header": "Charts & Maps"
-    },
-    {
-      "name": "Charts",
-      "icon": "menu-icon tf-icons ti ti-chart-pie",
-      "slug": "charts",
-      "submenu": [
-        {
-          "url": "charts-apex",
-          "name": "Apex Charts",
-          "slug": "charts-apex"
-        },
-        {
-          "url": "charts-chartjs",
-          "name": "ChartJS",
-          "slug": "charts-chartjs"
-        }
-      ]
-    }
+    } 
   ]
 }
