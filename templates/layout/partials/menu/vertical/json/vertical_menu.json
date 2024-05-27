@@ -121,11 +121,6 @@
           "url": "pages-faq",
           "name": "FAQ",
           "slug": "pages-faq"
-        },
-        {
-          "url": "pages-pricing",
-          "name": "Pricing",
-          "slug": "pages-pricing"
         }
       ]
     },
@@ -165,11 +160,6 @@
           "slug": "ui-buttons"
         },
         {
-          "url": "ui-list-groups",
-          "name": "List Groups",
-          "slug": "ui-list-groups"
-        },
-        {
           "url": "ui-modals",
           "name": "Modals",
           "slug": "ui-modals"
@@ -180,130 +170,13 @@
           "slug": "ui-progress"
         },
         {
-          "url": "ui-spinners",
-          "name": "Spinners",
-          "slug": "ui-spinners"
-        },
-        {
-          "url": "ui-tabs-pills",
-          "name": "Tabs & Pills",
-          "slug": "ui-tabs-pills"
-        },
-        {
           "url": "ui-toasts",
           "name": "Toasts",
           "slug": "ui-toasts"
-        },
-        {
-          "url": "ui-tooltips-popovers",
-          "name": "Tooltips & Popovers",
-          "slug": "ui-tooltips-popovers"
-        },
-        {
-          "url": "ui-typography",
-          "name": "Typography",
-          "slug": "ui-typography"
         }
       ]
-    },
-    {
-      "name": "Extended UI",
-      "icon": "menu-icon tf-icons ti ti-components",
-      "slug": "extended",
-      "submenu": [
-        {
-          "url": "extended-ui-sweetalert2",
-          "name": "SweetAlert2",
-          "slug": "extended-ui-sweetalert2"
-        },
-        {
-          "url": "extended-ui-text-divider",
-          "name": "Text Divider",
-          "slug": "extended-ui-text-divider"
-        },
-        {
-          "url": "extended-ui-tour",
-          "name": "Tour",
-          "slug": "extended-ui-tour"
-        }
-      ]
-    },
-    {
-      "menu_header": "Forms & Tables"
-    },
-    {
-      "name": "Form Elements",
-      "icon": "menu-icon tf-icons ti ti-toggle-left",
-      "slug": "forms",
-      "submenu": [
-        {
-          "url": "forms-basic-inputs",
-          "name": "Basic Inputs",
-          "slug": "forms-basic-inputs"
-        },
-        {
-          "url": "forms-input-groups",
-          "name": "Input groups",
-          "slug": "forms-input-groups"
-        },
-        {
-          "url": "forms-custom-options",
-          "name": "Custom Options",
-          "slug": "forms-custom-options"
-        },
-        {
-          "url": "forms-editors",
-          "name": "Editors",
-          "slug": "forms-editors"
-        },
-        {
-          "url": "forms-file-upload",
-          "name": "File Upload",
-          "slug": "forms-file-upload"
-        },
-        {
-          "url": "forms-pickers",
-          "name": "Pickers",
-          "slug": "forms-pickers"
-        },
-        {
-          "url": "forms-selects",
-          "name": "Select & Tags",
-          "slug": "forms-selects"
-        },
-        {
-          "url": "forms-sliders",
-          "name": "Sliders",
-          "slug": "forms-sliders"
-        },
-        {
-          "url": "forms-switches",
-          "name": "Switches",
-          "slug": "forms-switches"
-        },
-        {
-          "url": "forms-extras",
-          "name": "Extras",
-          "slug": "forms-extras"
-        }
-      ]
-    },
-    {
-      "name": "Form Layouts",
-      "icon": "menu-icon tf-icons ti ti-layout-navbar",
-      "slug": "form-layouts",
-      "submenu": [
-        {
-          "url": "form-layouts-vertical",
-          "name": "Vertical Form",
-          "slug": "form-layouts-vertical"
-        },
-        {
-          "url": "form-layouts-horizontal",
-          "name": "Horizontal Form",
-          "slug": "form-layouts-horizontal"
-        }
-      ]
-    } 
+    }
+    
+    
   ]
 }
