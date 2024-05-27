@@ -1,0 +1,105 @@
+{
+  "menu": [
+    {
+      "name": "Dashboards",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "dashboard",
+      "badge": [
+        "primary",
+        "1"
+      ],
+      "submenu": [
+        {
+          "url": "index",
+          "name": "Analytics",
+          "slug": "dashboard-analytics"
+        },
+
+        {
+          "url": "/app/ecommerce/dashboard",
+          "external": true,
+          "name": "E-Commerce",
+          "slug": "app-ecommerce-dashboard"
+        }
+      ]
+    },
+    {
+      "url": "transactions",
+      "name": "Departments",
+      "permission": "transactions.view_transaction",
+      "icon": "menu-icon tf-icons ti ti-database",
+      "slug": "transactions"
+    },
+    {
+      "name": "Employees",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "permission": "user.view_user",
+      "slug": "app-user",
+      "submenu": [
+        {
+          "url": "app-user-list",
+          "name": "List",
+          "slug": "app-user-list"
+        },
+        {
+          "url": "app-user-view-account",
+          "name": "Account",
+          "slug": "app-user-view-account"
+        }
+      ]
+    },
+    {
+      "url": "transactions",
+      "name": "Announcments",
+      "permission": "transactions.view_transaction",
+      "icon": "menu-icon tf-icons ti ti-database",
+      "slug": "transactions"
+    },
+    {
+      "url": "transactions",
+      "name": "Leave",
+      "permission": "transactions.view_transaction",
+      "icon": "menu-icon tf-icons ti ti-database",
+      "slug": "transactions"
+    },
+    {
+      "name": "Admin Profile",
+      "icon": "menu-icon tf-icons ti ti-file",
+      "slug": "pages",
+      "submenu": [
+        {
+          "name": "User Profile",
+          "slug": "pages-profile",
+          "submenu": [
+            {
+              "url": "pages-profile-user",
+              "name": "Profile",
+              "slug": "pages-profile-user"
+            },
+            {
+              "url": "pages-profile-teams",
+              "name": "Teams",
+              "slug": "pages-profile-teams"
+            }
+          ]
+        },
+        {
+          "name": "Account Settings",
+          "slug": "pages-account-settings",
+          "submenu": [
+            {
+              "url": "pages-account-settings-account",
+              "name": "Account",
+              "slug": "pages-account-settings-account"
+            }
+          ]
+        },
+        {
+          "url": "pages-faq",
+          "name": "FAQ",
+          "slug": "pages-faq"
+        }
+      ]
+    }
+  ]
+}
