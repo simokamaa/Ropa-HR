@@ -49,26 +49,6 @@
               "url": "app-user-view-account",
               "name": "Account",
               "slug": "app-user-view-account"
-            },
-            {
-              "url": "app-user-view-security",
-              "name": "Security",
-              "slug": "app-user-view-security"
-            },
-            {
-              "url": "app-user-view-billing",
-              "name": "Billing & Plans",
-              "slug": "app-user-view-billing"
-            },
-            {
-              "url": "app-user-view-notifications",
-              "name": "Notifications",
-              "slug": "app-user-view-notifications"
-            },
-            {
-              "url": "app-user-view-connections",
-              "name": "Connections",
-              "slug": "app-user-view-connections"
             }
           ]
         }
@@ -104,16 +84,6 @@
               "url": "pages-account-settings-account",
               "name": "Account",
               "slug": "pages-account-settings-account"
-            },
-            {
-              "url": "pages-account-settings-security",
-              "name": "Security",
-              "slug": "pages-account-settings-security"
-            },
-            {
-              "url": "pages-account-settings-notifications",
-              "name": "Notifications",
-              "slug": "pages-account-settings-notifications"
             }
           ]
         },
@@ -123,60 +93,6 @@
           "slug": "pages-faq"
         }
       ]
-    },
-
-    {
-      "url": "modal-examples",
-      "icon": "menu-icon tf-icons ti ti-square",
-      "name": "Modal Examples",
-      "slug": "modal-examples"
-    },
-    {
-      "menu_header": "Components"
-    },
-    {
-      "name": "User interface",
-      "icon": "menu-icon tf-icons ti ti-color-swatch",
-      "slug": "ui",
-      "submenu": [
-        {
-          "url": "ui-accordion",
-          "name": "Accordion",
-          "slug": "ui-accordion"
-        },
-        {
-          "url": "ui-alerts",
-          "name": "Alerts",
-          "slug": "ui-alerts"
-        },
-        {
-          "url": "ui-badges",
-          "name": "Badges",
-          "slug": "ui-badges"
-        },
-        {
-          "url": "ui-buttons",
-          "name": "Buttons",
-          "slug": "ui-buttons"
-        },
-        {
-          "url": "ui-modals",
-          "name": "Modals",
-          "slug": "ui-modals"
-        },
-        {
-          "url": "ui-progress",
-          "name": "Progress",
-          "slug": "ui-progress"
-        },
-        {
-          "url": "ui-toasts",
-          "name": "Toasts",
-          "slug": "ui-toasts"
-        }
-      ]
-    }
-    
-    
+    }   
   ]
 }
