@@ -285,36 +285,6 @@
           "url": "pages-pricing",
           "name": "Pricing",
           "slug": "pages-pricing"
-        },
-        {
-          "name": "Misc",
-          "slug": "pages-misc",
-          "submenu": [
-            {
-              "url": "pages-misc-error",
-              "name": "Error",
-              "slug": "pages-misc-error",
-              "target": "_blank"
-            },
-            {
-              "url": "pages-misc-under-maintenance",
-              "name": "Under Maintenance",
-              "slug": "pages-misc-under-maintenance",
-              "target": "_blank"
-            },
-            {
-              "url": "pages-misc-comingsoon",
-              "name": "Coming Soon",
-              "slug": "pages-misc-comingsoon",
-              "target": "_blank"
-            },
-            {
-              "url": "pages-misc-not-authorized",
-              "name": "Not Authorized",
-              "slug": "pages-misc-not-authorized",
-              "target": "_blank"
-            }
-          ]
         }
       ]
     },
@@ -495,11 +465,6 @@
           "url": "extended-ui-perfect-scrollbar",
           "name": "Perfect Scrollbar",
           "slug": "extended-ui-perfect-scrollbar"
-        },
-        {
-          "url": "extended-ui-star-ratings",
-          "name": "Star Ratings",
-          "slug": "extended-ui-star-ratings"
         },
         {
           "url": "extended-ui-sweetalert2",
