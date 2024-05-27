@@ -6,7 +6,7 @@
       "slug": "dashboard",
       "badge": [
         "primary",
-        "5"
+        "1"
       ],
       "submenu": [
         {
@@ -20,43 +20,6 @@
           "external": true,
           "name": "E-Commerce",
           "slug": "app-ecommerce-dashboard"
-        }
-      ]
-    },
-    {
-      "name": "Front Pages",
-      "icon": "menu-icon tf-icons ti ti-files",
-      "slug": "front-pages",
-      "submenu": [
-        {
-          "url": "landing-page",
-          "name": "Landing",
-          "slug": "front-pages-landing",
-          "target": "_blank"
-        },
-        {
-          "url": "pricing-page",
-          "name": "Pricing",
-          "slug": "front-pages-pricing",
-          "target": "_blank"
-        },
-        {
-          "url": "payment-page",
-          "name": "Payments",
-          "slug": "front-pages-payment",
-          "target": "_blank"
-        },
-        {
-          "url": "checkout-page",
-          "name": "Checkout",
-          "slug": "front-pages-checkout",
-          "target": "_blank"
-        },
-        {
-          "url": "help-center-landing",
-          "name": "Help Center",
-          "slug": "front-pages-help-center",
-          "target": "_blank"
         }
       ]
     },
