@@ -25,13 +25,13 @@
     },
     {
       "url": "transactions",
-      "name": "Transactions (CRUD)",
+      "name": "Departments",
       "permission": "transactions.view_transaction",
       "icon": "menu-icon tf-icons ti ti-database",
       "slug": "transactions"
     },
     {
-      "name": "Users",
+      "name": "Employees",
       "icon": "menu-icon tf-icons ti ti-users",
       "permission": "user.view_user",
       "slug": "app-user",
@@ -42,21 +42,15 @@
           "slug": "app-user-list"
         },
         {
-          "name": "View",
-          "slug": "app-user-view",
-          "submenu": [
-            {
-              "url": "app-user-view-account",
-              "name": "Account",
-              "slug": "app-user-view-account"
-            }
-          ]
+          "url": "app-user-view-account",
+          "name": "Account",
+          "slug": "app-user-view-account"
         }
       ]
     },
     
     {
-      "name": "Pages",
+      "name": "Admin Profile",
       "icon": "menu-icon tf-icons ti ti-file",
       "slug": "pages",
       "submenu": [
