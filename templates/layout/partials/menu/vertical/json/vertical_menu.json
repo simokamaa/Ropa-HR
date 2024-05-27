@@ -134,12 +134,10 @@
               ]
             }
           ]
-        },
-        {
-          "url": "app-ecommerce-manage-reviews",
-          "name": "Manage Reviews",
-          "slug": "app-ecommerce-manage-reviews"
-        },
+        }        
+      ]
+    },
+    
     {
       "name": "Invoice",
       "icon": "menu-icon tf-icons ti ti-file-dollar",
@@ -517,23 +515,6 @@
           "url": "extended-ui-tour",
           "name": "Tour",
           "slug": "extended-ui-tour"
-        }
-      ]
-    },
-    {
-      "name": "Icons",
-      "icon": "menu-icon tf-icons ti ti-brand-tabler",
-      "slug": "icons",
-      "submenu": [
-        {
-          "url": "icons-tabler",
-          "name": "Tabler",
-          "slug": "icons-tabler"
-        },
-        {
-          "url": "icons-font-awesome",
-          "name": "Fontawesome",
-          "slug": "icons-font-awesome"
         }
       ]
     },
